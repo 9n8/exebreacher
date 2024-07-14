@@ -1,0 +1,3 @@
+run 1 then drag exe
+open folder created
+run 2 then drag .pyc and get source

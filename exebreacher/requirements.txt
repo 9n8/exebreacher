@@ -1,0 +1,4 @@
+decompyle3 in path
+os
+subprocess
+pyinstaller
